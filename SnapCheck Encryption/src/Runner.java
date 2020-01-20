@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Class to run custom user input
+//Class to run custom user input 
 public class Runner {
 	public static void main(String[] args) {
 		Scanner console = new Scanner(System.in);
